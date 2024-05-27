@@ -289,6 +289,11 @@ footer {
     padding: 20px 0;
     position: relative;
     width: 100%;
+    
+}
+.footer-content a {
+    color: #FFF;
+    text-decoration: none;
 }
 
 .footer-content p {
